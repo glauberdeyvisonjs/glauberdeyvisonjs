@@ -2,6 +2,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glauberdeyvisonjs&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glauberdeyvisonjs&layout=compact&theme=radical)](https://github.com/RuhtracBP/github-readme-stats)
 <!--
 **glauberdeyvisonjs/glauberdeyvisonjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
