@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Glauber Deyvison</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [hotel management system in Flutter](https://github.com/glauberdeyvisonjs/HotelFaker-Flutter)
+- 📲 I’m currently working on [hotel management system in Flutter](https://github.com/glauberdeyvisonjs/HotelFaker-Flutter)
 
-- and the API in [Laravel](https://github.com/glauberdeyvisonjs/HotelFaker-API)
+- 💾 and the API in [Laravel](https://github.com/glauberdeyvisonjs/HotelFaker-API)
 
-- 🌱 I’m currently learning **GetX and MobX**
+- 📚 I’m currently learning **GetX and MobX**
 
 - 👨‍💻 All of my projects are available at [https://github.com/glauberdeyvisonjs](https://github.com/glauberdeyvisonjs)
 
