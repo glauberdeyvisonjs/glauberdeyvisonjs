@@ -12,7 +12,7 @@ Adoro resolver problemas e aprender coisas novas. Atualmente, estou trabalhando 
 - MySQL
 - Flutter
 - Clean Code
-- Boas práticas
+- Princípios SOLID
 
 ## ⚡ Curiosidades
 - Além de ser um desenvolvedor, adoro ler livros de romance.
