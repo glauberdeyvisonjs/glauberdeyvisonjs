@@ -2,17 +2,17 @@
 Meu nome é Glauber Silva. Sou um desenvolvedor back-end com ênfase em PHP 8+ e Laravel.
 Tenho 1 ano e 6 meses de experiência no desenvolvimento de uma API REST em Laravel (PHP 8) e no desenvolvimento mobile com Flutter, bem como em uma Aplicação Web de gerenciamento interno em HTML, CSS e JavaScript com o back-end também em Laravel.
 
-## 🚀 Sobre Mim
+## 🚀 Sobre mim
 Adoro resolver problemas e aprender coisas novas. Atualmente, estou trabalhando com PHP (Laravel), MySQL e Flutter, mas estou sempre aberto a explorar novas tecnologias e ferramentas. Possuo experiência acadêmica e conhecimento sólido em Java 18+.
 
-## 🛠️ Principais Habilidades Técnicas
+## 🛠️ Principais habilidades técnicas
 - PHP 8+
 - Laravel 9+
 - Java 18+
 - MySQL
 - Flutter
 
-## 🏢 Projetos
+## 🏢 Projetos que trabalho atualmente
 - 📲 Atualmente estou trabalhando em um [aplicativo de gerenciamento de um hotel](https://github.com/glauberdeyvisonjs/HotelFaker-Flutter) em Flutter
 
 - 💾 E na [API do projeto em Laravel](https://github.com/glauberdeyvisonjs/HotelFaker-API)
